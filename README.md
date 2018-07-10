@@ -1,2 +1,2 @@
-# livros-json
-Um arquivo JSON pra testes
+# json
+Um arquivo JSON para testes
