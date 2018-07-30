@@ -111,7 +111,9 @@
 "paginas": "480",
 "preco": 98,
 "estoque": ""
-},
+}
+        
+/*        ,
 
 {
 "imgCapa": "https://s3.novatec.com.br/capas/9788575225349.jpg", 
@@ -1528,7 +1530,7 @@
 "preco": 22,
 "estoque": ""
 }
-
+*/
 ]
 
 }
